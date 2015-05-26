@@ -1,0 +1,13 @@
+[Oo]bj/
+[Bb]in/
+*.suo
+*.user
+*.pdb
+*.vspscc
+*.vssscc
+App_Data
+packages
+NuGet.exe
+/Output
+/DocImporter
+/*.suo
